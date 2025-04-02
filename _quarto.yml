@@ -29,8 +29,6 @@ website:
         file: exploration.qmd
       - text: "Story Telling"
         file: story_telling.qmd
-      - text: "SQL database"
-        file: sql.qmd
       # - text: "Machine Learning"
       #   file: ml.qmd
       # - text: "Full Stack"
@@ -112,24 +110,6 @@ website:
       style: "docked"
       background: light
       contents:
-        - text: "SQL database"
-          file: sql.qmd
-        - text: "---"
-        - text: "Project 1"
-          file: Story_Telling/project1.qmd
-        - text: "---"
-        - text: "Project 2"
-          file: Story_Telling/project2.qmd
-        - text: "---"
-        - text: "Project 3"
-          file: Story_Telling/project3.qmd
-        - text: "---"
-        - text: "Project 4"
-          file: Story_Telling/project4.qmd
-        - text: "---"
-        - text: "Project 5"
-          file: Story_Telling/project5.qmd
-        - text: "---"
     # - title: "Machine Learning"
     #   style: "docked"
     #   background: light
