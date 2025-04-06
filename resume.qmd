@@ -11,7 +11,7 @@ Pursuing a Bachelor's Degree in Data Science at BYU-Idaho
 
 ## Education
 
-Expected Apr 2027Brigham Young University - IdahoMajor: Data Science
+Expected Apr 2027 Brigham Young University - Idaho Major: Data Science
 
 ### Specialized in
 
@@ -26,42 +26,64 @@ Sports analytics, machine learning, business logistics, customer behavior
 ## Skills
 
 • Python
+
 • R
+
 • SQL
+
 • Written and verbal communication
+
 • Critical thinking
+
 • Relationship building
+
 • Active listening
+
 • Clinic planning and leadership
+
 • Problem-solving
+
 • Conversational Spanish
 
 ## Projects
 
 Python
 •	Pioneer Baseball League Analytics- 1/2025-4/2025
+
 -	As a team we built a machine learning model using college player’s data to predict their rank in the League
 -	I created, tested, & used a dynamic web scraper to format & collect the relevant data for a Machine learning Model
+
+
 SQL
 •	FedEx Database- 1/2025-4/2025
+
 -	Discovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability
 -	I created a functional database using SQL to replicate FedEx’s information
 -	 Focused on improving data accessibility for FedEx contractors to help them effectively use their data
+
 R
 •	2-Disc Disc Golf Data set- 6/2024-11/2024
+
 -	I gathered data about playing disc golf with multiple different discs vs playing with only two disks
 -	analyzed it to see which style of playing statistically showed the lowest amount of throws per round.
+
 •	Golf Accuracy Data Set- 1/2025-4/2025
+
 -	I gathered data about accuracy to the pin using three separate golf clubs.
 -	Analyzed it using a two way Anova test to see how each club preformed at each distance. 
 
 ## Professional Work 
 
 FedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – Present
+
 Halda, SDR -Provo Ut: 02/2023 - 08/2023
+
 Assistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023
+
 Big Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023
+
 Service Volunteer- Nashville, TN: 5/2018 - 5/2020
+
 Field Worker- Pocatello, ID: 7/2016 - 10/2017
 
 
