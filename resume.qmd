@@ -3,87 +3,68 @@ layout: cv
 title: Dallin Wagner's CV
 ---
 # Dallin Wagner
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Pursuing a Bachelor's Degree in Data Science at BYU-Idaho
+
+## Education
+
+Expected Apr 2027Brigham Young University - IdahoMajor: Data Science
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data analytics, statistical modeling, web scraping, and working with people to solve real-world problems
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Sports analytics, machine learning, business logistics, customer behavior
 
 
-## Education
+## Skills
 
-`1654-1660`
-__The King's School, Grantham.__
+• Python
+• R
+• SQL
+• Written and verbal communication
+• Critical thinking
+• Relationship building
+• Active listening
+• Clinic planning and leadership
+• Problem-solving
+• Conversational Spanish
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Projects
 
-- Sizar
+Python
+•	Pioneer Baseball League Analytics- 1/2025-4/2025
+-	As a team we built a machine learning model using college player’s data to predict their rank in the League
+-	I created, tested, & used a dynamic web scraper to format & collect the relevant data for a Machine learning Model
+SQL
+•	FedEx Database- 1/2025-4/2025
+-	Discovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability
+-	I created a functional database using SQL to replicate FedEx’s information
+-	 Focused on improving data accessibility for FedEx contractors to help them effectively use their data
+R
+•	2-Disc Disc Golf Data set- 6/2024-11/2024
+-	I gathered data about playing disc golf with multiple different discs vs playing with only two disks
+-	analyzed it to see which style of playing statistically showed the lowest amount of throws per round.
+•	Golf Accuracy Data Set- 1/2025-4/2025
+-	I gathered data about accuracy to the pin using three separate golf clubs.
+-	Analyzed it using a two way Anova test to see how each club preformed at each distance. 
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Professional Work 
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+FedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – Present
+Halda, SDR -Provo Ut: 02/2023 - 08/2023
+Assistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023
+Big Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023
+Service Volunteer- Nashville, TN: 5/2018 - 5/2020
+Field Worker- Pocatello, ID: 7/2016 - 10/2017
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
