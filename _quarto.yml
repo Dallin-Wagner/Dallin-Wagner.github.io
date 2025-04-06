@@ -19,8 +19,8 @@ website:
     background: primary
     search: true   
     right:
-      - text: "Home"
-        file: index.qmd
+      # - text: "Home"
+      #   file: index.qmd
       - text: "My Resume"
         file: resume.qmd
       # - text: "Web Scraping"
