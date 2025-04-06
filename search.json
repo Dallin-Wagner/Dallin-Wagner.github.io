@@ -168,20 +168,6 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
     "objectID": "Full_Stack/project5.html",
     "href": "Full_Stack/project5.html",
     "title": "Client Report - [Insert Project Title]",
@@ -296,44 +282,44 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Dallin Wagner’s CV",
+    "title": "Dallin Wagner’s Resume",
     "section": "",
-    "text": "Pursuing a Bachelor’s Degree in Data Science at BYU-Idaho\n\n\n\nExpected Apr 2027 Brigham Young University - Idaho Major: Data Science\n\n\nData analytics, statistical modeling, web scraping, and working with people to solve real-world problems\n\n\n\nSports analytics, machine learning, business logistics, customer behavior\n\n\n\n\n• Python\n• R\n• SQL\n• Written and verbal communication\n• Critical thinking\n• Relationship building\n• Active listening\n• Clinic planning and leadership\n• Problem-solving\n• Conversational Spanish\n\n\n\nPython • Pioneer Baseball League Analytics- 1/2025-4/2025\n\nAs a team we built a machine learning model using college player’s data to predict their rank in the League\nI created, tested, & used a dynamic web scraper to format & collect the relevant data for a Machine learning Model\n\nSQL • FedEx Database- 1/2025-4/2025\n\nDiscovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability\nI created a functional database using SQL to replicate FedEx’s information\nFocused on improving data accessibility for FedEx contractors to help them effectively use their data\n\nR • 2-Disc Disc Golf Data set- 6/2024-11/2024\n\nI gathered data about playing disc golf with multiple different discs vs playing with only two disks\nanalyzed it to see which style of playing statistically showed the lowest amount of throws per round.\n\n• Golf Accuracy Data Set- 1/2025-4/2025\n\nI gathered data about accuracy to the pin using three separate golf clubs.\nAnalyzed it using a two way Anova test to see how each club preformed at each distance.\n\n\n\n\nFedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – Present\nHalda, SDR -Provo Ut: 02/2023 - 08/2023\nAssistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023\nBig Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023\nService Volunteer- Nashville, TN: 5/2018 - 5/2020\nField Worker- Pocatello, ID: 7/2016 - 10/2017"
+    "text": "Pursuing a Bachelor’s Degree in Data Science at BYU-Idaho."
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Dallin Wagner’s CV",
+    "objectID": "resume.html#current",
+    "href": "resume.html#current",
+    "title": "Dallin Wagner’s Resume",
     "section": "",
-    "text": "Pursuing a Bachelor’s Degree in Data Science at BYU-Idaho"
+    "text": "Pursuing a Bachelor’s Degree in Data Science at BYU-Idaho."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Dallin Wagner’s CV",
-    "section": "",
-    "text": "Expected Apr 2027 Brigham Young University - Idaho Major: Data Science\n\n\nData analytics, statistical modeling, web scraping, and working with people to solve real-world problems\n\n\n\nSports analytics, machine learning, business logistics, customer behavior"
+    "title": "Dallin Wagner’s Resume",
+    "section": "Education",
+    "text": "Education\nExpected Apr 2027 Brigham Young University - Idaho Major: Data Science\n\nSpecialized in\nData analytics, statistical modeling, web scraping, and working with people to solve real-world problems\n\n\nResearch interests\nSports analytics, machine learning, business logistics, customer behavior"
   },
   {
     "objectID": "resume.html#skills",
     "href": "resume.html#skills",
-    "title": "Dallin Wagner’s CV",
-    "section": "",
-    "text": "• Python\n• R\n• SQL\n• Written and verbal communication\n• Critical thinking\n• Relationship building\n• Active listening\n• Clinic planning and leadership\n• Problem-solving\n• Conversational Spanish"
+    "title": "Dallin Wagner’s Resume",
+    "section": "Skills",
+    "text": "Skills\n• Python\n• R\n• SQL\n• Written and verbal communication\n• Critical thinking\n• Relationship building\n• Active listening\n• Clinic planning and leadership\n• Problem-solving\n• Conversational Spanish"
   },
   {
     "objectID": "resume.html#projects",
     "href": "resume.html#projects",
-    "title": "Dallin Wagner’s CV",
-    "section": "",
-    "text": "Python • Pioneer Baseball League Analytics- 1/2025-4/2025\n\nAs a team we built a machine learning model using college player’s data to predict their rank in the League\nI created, tested, & used a dynamic web scraper to format & collect the relevant data for a Machine learning Model\n\nSQL • FedEx Database- 1/2025-4/2025\n\nDiscovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability\nI created a functional database using SQL to replicate FedEx’s information\nFocused on improving data accessibility for FedEx contractors to help them effectively use their data\n\nR • 2-Disc Disc Golf Data set- 6/2024-11/2024\n\nI gathered data about playing disc golf with multiple different discs vs playing with only two disks\nanalyzed it to see which style of playing statistically showed the lowest amount of throws per round.\n\n• Golf Accuracy Data Set- 1/2025-4/2025\n\nI gathered data about accuracy to the pin using three separate golf clubs.\nAnalyzed it using a two way Anova test to see how each club preformed at each distance."
+    "title": "Dallin Wagner’s Resume",
+    "section": "Projects",
+    "text": "Projects\nPython • Pioneer Baseball League Analytics- 1/2025-4/2025\n\nAs a team we built a machine learning model using college player’s data to predict their rank in the League\nI created, tested, & used a dynamic web scraper to format & collect the relevant data for a Machine learning Model\n\nSQL • FedEx Database- 1/2025-4/2025\n\nDiscovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability\nI created a functional database using SQL to replicate FedEx’s information\nFocused on improving data accessibility for FedEx contractors to help them effectively use their data\n\nR • 2-Disc Disc Golf Data set- 6/2024-11/2024\n\nI gathered data about playing disc golf with multiple different discs vs playing with only two disks\nanalyzed it to see which style of playing statistically showed the lowest amount of throws per round.\n\n• Golf Accuracy Data Set- 1/2025-4/2025\n\nI gathered data about accuracy to the pin using three separate golf clubs.\nAnalyzed it using a two way Anova test to see how each club preformed at each distance."
   },
   {
     "objectID": "resume.html#professional-work",
     "href": "resume.html#professional-work",
-    "title": "Dallin Wagner’s CV",
-    "section": "",
-    "text": "FedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – Present\nHalda, SDR -Provo Ut: 02/2023 - 08/2023\nAssistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023\nBig Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023\nService Volunteer- Nashville, TN: 5/2018 - 5/2020\nField Worker- Pocatello, ID: 7/2016 - 10/2017"
+    "title": "Dallin Wagner’s Resume",
+    "section": "Professional Work",
+    "text": "Professional Work\nFedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – Present\nHalda, SDR -Provo Ut: 02/2023 - 08/2023\nAssistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023\nBig Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023\nService Volunteer- Nashville, TN: 5/2018 - 5/2020\nField Worker- Pocatello, ID: 7/2016 - 10/2017"
   },
   {
     "objectID": "Machine_Learning/project5.html",
