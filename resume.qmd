@@ -1,13 +1,11 @@
 ---
 layout: cv
-title: Dallin Wagner's CV
+title: Dallin Wagner's Resume
 ---
-# Dallin Wagner
 
+## Current
 
-## Currently
-
-Pursuing a Bachelor's Degree in Data Science at BYU-Idaho
+Pursuing a Bachelor's Degree in Data Science at BYU-Idaho. 
 
 ## Education
 
