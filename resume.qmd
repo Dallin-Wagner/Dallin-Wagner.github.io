@@ -46,6 +46,7 @@ Sports analytics, machine learning, business logistics, customer behavior
 ## Projects
 
 Python
+
 •	Pioneer Baseball League Analytics- 1/2025-4/2025
 
 -	As a team we built a machine learning model using college player’s data to predict their rank in the League
@@ -53,6 +54,7 @@ Python
 
 
 SQL
+
 •	FedEx Database- 1/2025-4/2025
 
 -	Discovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability
@@ -60,6 +62,7 @@ SQL
 -	 Focused on improving data accessibility for FedEx contractors to help them effectively use their data
 
 R
+
 •	2-Disc Disc Golf Data set- 6/2024-11/2024
 
 -	I gathered data about playing disc golf with multiple different discs vs playing with only two disks
