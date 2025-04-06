@@ -40,8 +40,8 @@ website:
   # comment out any of the sections below to turn off the sidebar
 
   sidebar: 
-    - title: "Data Cleansing"
-      style: "docked"
+    - title: "Web Scraping"
+      style: "Web_Scraping"
       background: light
       contents:
         - text: "Web Scrapping"
@@ -106,10 +106,6 @@ website:
         - text: "Project 5"
           file: Story_Telling/project5.qmd
         - text: "---"
-        - title: "Story Telling"
-      style: "docked"
-      background: light
-      contents:
     # - title: "Machine Learning"
     #   style: "docked"
     #   background: light
