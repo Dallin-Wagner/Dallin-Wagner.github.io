@@ -1,38 +1,31 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Dallin Wagner’s Resume",
-    "section": "",
-    "text": "LinkedIn\n(208) 206-5580\ndallinwagner@outlook.com\n\n\nData Science student with a strong foundation in Python, SQL, R, and data analysis. Experienced in applying analytical tools to extract insights. Professional background in sales, coaching, and logistics. Recognized for grit, quick learning, and the ability to collaborate with diverse teams to deliver results.\n\n\n\nBrigham Young University-Idaho — Rexburg, ID\nExpected Dec. 2026\nMajor: Data Science\n\n\nMachine Learning, Big Data, Data Science Consulting, SQL Database, Statistics with R, Data Wrangling & Visualization, Data Science Programming, Multi Variable Calculus\n\n\n\n\n\n\n\nPython\nSQL\nR\nPySpark / Databricks\nGit / GitHub\n\n\n\n\n\nMachine learning\nETL / data pipelines\nData cleaning\nData visualization\nRegression / ANOVA\nWeb scraping\n\n\n\n\n\n\n\nApr. 2026 – Jul. 2026\n\nLed a BYU-Idaho student consulting team building an automated municipal data pipeline for geospatial integration, ArcGIS-ready outputs, and urban growth decision support.\nCoordinated data inventory, ETL validation workflows, governance recommendations, and client-facing roadmap planning for future municipal analytics.\n\n\n\n\nApr. 2026 – Sep. 2026\n\nCoordinated society communications, project updates, and event messaging while connecting data science students with applied learning opportunities.\nMentored new students through college transition, coursework expectations, academic planning, and campus resources.\n\n\n\n\nAug. 2025 – Dec. 2025\n\nDeployed and managed a relational SQL database on AWS EC2/RDS to support structured storage, querying, and controlled data access.\n\n\n\n\nJan. 2025 – Apr. 2025\n\nCollaborated with a data science team to build a machine learning model predicting player rank from baseball performance statistics.\nDesigned a dynamic web scraper to collect, clean, and format player data for model training and evaluation.\n\n\n\n\nProvo, UT | Feb. 2023 – Aug. 2023\n\nUsed HubSpot CRM to track outreach, strengthen customer relationships, and communicate with clients in a fast-paced sales environment."
-  },
-  {
     "objectID": "resume.html#professional-summary",
     "href": "resume.html#professional-summary",
     "title": "Dallin Wagner’s Resume",
-    "section": "",
-    "text": "Data Science student with a strong foundation in Python, SQL, R, and data analysis. Experienced in applying analytical tools to extract insights. Professional background in sales, coaching, and logistics. Recognized for grit, quick learning, and the ability to collaborate with diverse teams to deliver results."
+    "section": "Professional Summary",
+    "text": "Professional Summary\nData Science student with a strong foundation in Python, SQL, R, and data analysis. Experienced in applying analytical tools to extract insights. Professional background in sales, coaching, and logistics. Recognized for grit, quick learning, and the ability to collaborate with diverse teams to deliver results."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Dallin Wagner’s Resume",
-    "section": "",
-    "text": "Brigham Young University-Idaho — Rexburg, ID\nExpected Dec. 2026\nMajor: Data Science\n\n\nMachine Learning, Big Data, Data Science Consulting, SQL Database, Statistics with R, Data Wrangling & Visualization, Data Science Programming, Multi Variable Calculus"
+    "section": "Education",
+    "text": "Education\nBrigham Young University-Idaho — Rexburg, ID\nExpected Dec. 2026\nMajor: Data Science\n\nRelevant Coursework\nMachine Learning, Big Data, Data Science Consulting, SQL Database, Statistics with R, Data Wrangling & Visualization, Data Science Programming, Multi Variable Calculus"
   },
   {
     "objectID": "resume.html#technical-skills",
     "href": "resume.html#technical-skills",
     "title": "Dallin Wagner’s Resume",
-    "section": "",
-    "text": "Python\nSQL\nR\nPySpark / Databricks\nGit / GitHub\n\n\n\n\n\nMachine learning\nETL / data pipelines\nData cleaning\nData visualization\nRegression / ANOVA\nWeb scraping"
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nTools & Languages\n\nPython\nSQL\nR\nPySpark / Databricks\nGit / GitHub\n\n\n\nAnalytics\n\nMachine learning\nETL / data pipelines\nData cleaning\nData visualization\nRegression / ANOVA\nWeb scraping"
   },
   {
     "objectID": "resume.html#related-experience",
     "href": "resume.html#related-experience",
     "title": "Dallin Wagner’s Resume",
-    "section": "",
-    "text": "Apr. 2026 – Jul. 2026\n\nLed a BYU-Idaho student consulting team building an automated municipal data pipeline for geospatial integration, ArcGIS-ready outputs, and urban growth decision support.\nCoordinated data inventory, ETL validation workflows, governance recommendations, and client-facing roadmap planning for future municipal analytics.\n\n\n\n\nApr. 2026 – Sep. 2026\n\nCoordinated society communications, project updates, and event messaging while connecting data science students with applied learning opportunities.\nMentored new students through college transition, coursework expectations, academic planning, and campus resources.\n\n\n\n\nAug. 2025 – Dec. 2025\n\nDeployed and managed a relational SQL database on AWS EC2/RDS to support structured storage, querying, and controlled data access.\n\n\n\n\nJan. 2025 – Apr. 2025\n\nCollaborated with a data science team to build a machine learning model predicting player rank from baseball performance statistics.\nDesigned a dynamic web scraper to collect, clean, and format player data for model training and evaluation.\n\n\n\n\nProvo, UT | Feb. 2023 – Aug. 2023\n\nUsed HubSpot CRM to track outreach, strengthen customer relationships, and communicate with clients in a fast-paced sales environment."
+    "section": "Related Experience",
+    "text": "Related Experience\n\nCity of Ammon Data Pipeline Project — Project Lead\nApr. 2026 – Jul. 2026\n\nLed a BYU-Idaho student consulting team building an automated municipal data pipeline for geospatial integration, ArcGIS-ready outputs, and urban growth decision support.\nCoordinated data inventory, ETL validation workflows, governance recommendations, and client-facing roadmap planning for future municipal analytics.\n\n\n\nBYU-Idaho Data Science Society — VP Communications & Mentor\nApr. 2026 – Sep. 2026\n\nCoordinated society communications, project updates, and event messaging while connecting data science students with applied learning opportunities.\nMentored new students through college transition, coursework expectations, academic planning, and campus resources.\n\n\n\nAWS Database Integration Project — SQL / AWS / HTML\nAug. 2025 – Dec. 2025\n\nDeployed and managed a relational SQL database on AWS EC2/RDS to support structured storage, querying, and controlled data access.\n\n\n\nPioneer Baseball League Analytics — Python / Machine Learning\nJan. 2025 – Apr. 2025\n\nCollaborated with a data science team to build a machine learning model predicting player rank from baseball performance statistics.\nDesigned a dynamic web scraper to collect, clean, and format player data for model training and evaluation.\n\n\n\nHalda — Sales Development Representative\nProvo, UT | Feb. 2023 – Aug. 2023\n\nUsed HubSpot CRM to track outreach, strengthen customer relationships, and communicate with clients in a fast-paced sales environment."
   },
   {
     "objectID": "story_telling.html",
