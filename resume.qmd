@@ -3,6 +3,13 @@ layout: cv
 title: Dallin Wagner's Resume
 ---
 
+<div style="float: right; margin-left: 30px; margin-bottom: 10px;">
+  <img src="pro_pic_dallin_wagner.jpg"
+       alt="Dallin Wagner"
+       style="width: 145px; height: 145px; object-fit: cover; border-radius: 10px;">
+</div>
+
+
 # Dallin Wagner
 
 [LinkedIn](https://www.linkedin.com/in/dallin-wagner)  
