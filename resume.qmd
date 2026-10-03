@@ -3,91 +3,76 @@ layout: cv
 title: Dallin Wagner's Resume
 ---
 
-## Current
+# Dallin Wagner
 
-Pursuing a Bachelor's Degree in Data Science at BYU-Idaho. 
+[LinkedIn](https://www.linkedin.com/in/dallin-wagner)  
+(208) 206-5580  
+dallinwagner@outlook.com
+
+## Professional Summary
+
+Data Science student with a strong foundation in Python, SQL, R, and data analysis. Experienced in applying analytical tools to extract insights. Professional background in sales, coaching, and logistics. Recognized for grit, quick learning, and the ability to collaborate with diverse teams to deliver results.
 
 ## Education
 
-Expected Apr 2027 Brigham Young University - Idaho Major: Data Science
+**Brigham Young University-Idaho — Rexburg, ID**  
+Expected Dec. 2026
 
-### Specialized in
+**Major:** Data Science
 
-Data analytics, statistical modeling, web scraping, and working with people to solve real-world problems
+### Relevant Coursework
 
+Machine Learning, Big Data, Data Science Consulting, SQL Database, Statistics with R, Data Wrangling & Visualization, Data Science Programming, Multi Variable Calculus
 
-### Research interests
+## Technical Skills
 
-Sports analytics, machine learning, business logistics, customer behavior
+### Tools & Languages
 
+- Python
+- SQL
+- R
+- PySpark / Databricks
+- Git / GitHub
 
-## Skills
+### Analytics
 
-• Python
+- Machine learning
+- ETL / data pipelines
+- Data cleaning
+- Data visualization
+- Regression / ANOVA
+- Web scraping
 
-• R
+## Related Experience
 
-• SQL
+### City of Ammon Data Pipeline Project — Project Lead
+**Apr. 2026 – Jul. 2026**
 
-• Written and verbal communication
+- Led a BYU-Idaho student consulting team building an automated municipal data pipeline for geospatial integration, ArcGIS-ready outputs, and urban growth decision support.
+- Coordinated data inventory, ETL validation workflows, governance recommendations, and client-facing roadmap planning for future municipal analytics.
 
-• Critical thinking
+### BYU-Idaho Data Science Society — VP Communications & Mentor
+**Apr. 2026 – Sep. 2026**
 
-• Relationship building
+- Coordinated society communications, project updates, and event messaging while connecting data science students with applied learning opportunities.
+- Mentored new students through college transition, coursework expectations, academic planning, and campus resources.
 
-• Active listening
+### AWS Database Integration Project — SQL / AWS / HTML
+**Aug. 2025 – Dec. 2025**
 
-• Clinic planning and leadership
+- Deployed and managed a relational SQL database on AWS EC2/RDS to support structured storage, querying, and controlled data access.
 
-• Problem-solving
+### Pioneer Baseball League Analytics — Python / Machine Learning
+**Jan. 2025 – Apr. 2025**
 
-• Conversational Spanish
+- Collaborated with a data science team to build a machine learning model predicting player rank from baseball performance statistics.
+- Designed a dynamic web scraper to collect, clean, and format player data for model training and evaluation.
 
-## Projects
+### Halda — Sales Development Representative
+**Provo, UT | Feb. 2023 – Aug. 2023**
 
-Python
-
-•	Pioneer Baseball League Analytics- 1/2025-4/2025
-
--	As a team we built a machine learning model using college player’s data to predict their rank in the League
--	I created, tested, & used a dynamic web scraper to format & collect the relevant data for a Machine learning Model
-
-
-SQL
-
-•	FedEx Database- 1/2025-4/2025
-
--	Discovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability
--	I created a functional database using SQL to replicate FedEx’s information
--	 Focused on improving data accessibility for FedEx contractors to help them effectively use their data
-
-R
-
-•	2-Disc Disc Golf Data set- 6/2024-11/2024
-
--	I gathered data about playing disc golf with multiple different discs vs playing with only two disks
--	analyzed it to see which style of playing statistically showed the lowest amount of throws per round.
-
-•	Golf Accuracy Data Set- 1/2025-4/2025
-
--	I gathered data about accuracy to the pin using three separate golf clubs.
--	Analyzed it using a two way Anova test to see how each club preformed at each distance. 
-
-## Professional Work 
-
-FedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – 9/2025
-
-Halda, SDR -Provo Ut: 02/2023 - 08/2023
-
-Assistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023
-
-Big Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023
-
-Service Volunteer- Nashville, TN: 5/2018 - 5/2020
-
-Field Worker- Pocatello, ID: 7/2016 - 10/2017
-
+- Used HubSpot CRM to track outreach, strengthen customer relationships, and communicate with clients in a fast-paced sales environment.
 
 <!-- ### Footer
 
-Last updated: April 2025 -->
+Last updated: October 2026 -->
