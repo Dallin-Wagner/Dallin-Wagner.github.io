@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Dallin Wagner’s Resume",
+    "section": "",
+    "text": "LinkedIn\n(208) 206-5580\ndallinwagner@outlook.com\n\n\nData Science student with a strong foundation in Python, SQL, R, and data analysis. Experienced in applying analytical tools to extract insights. Professional background in sales, coaching, and logistics. Recognized for grit, quick learning, and the ability to collaborate with diverse teams to deliver results.\n\n\n\nBrigham Young University-Idaho — Rexburg, ID\nExpected Dec. 2026\nMajor: Data Science\n\n\nMachine Learning, Big Data, Data Science Consulting, SQL Database, Statistics with R, Data Wrangling & Visualization, Data Science Programming, Multi Variable Calculus\n\n\n\n\n\n\n\nPython\nSQL\nR\nPySpark / Databricks\nGit / GitHub\n\n\n\n\n\nMachine learning\nETL / data pipelines\nData cleaning\nData visualization\nRegression / ANOVA\nWeb scraping\n\n\n\n\n\n\n\nApr. 2026 – Jul. 2026\n\nLed a BYU-Idaho student consulting team building an automated municipal data pipeline for geospatial integration, ArcGIS-ready outputs, and urban growth decision support.\nCoordinated data inventory, ETL validation workflows, governance recommendations, and client-facing roadmap planning for future municipal analytics.\n\n\n\n\nApr. 2026 – Sep. 2026\n\nCoordinated society communications, project updates, and event messaging while connecting data science students with applied learning opportunities.\nMentored new students through college transition, coursework expectations, academic planning, and campus resources.\n\n\n\n\nAug. 2025 – Dec. 2025\n\nDeployed and managed a relational SQL database on AWS EC2/RDS to support structured storage, querying, and controlled data access.\n\n\n\n\nJan. 2025 – Apr. 2025\n\nCollaborated with a data science team to build a machine learning model predicting player rank from baseball performance statistics.\nDesigned a dynamic web scraper to collect, clean, and format player data for model training and evaluation.\n\n\n\n\nProvo, UT | Feb. 2023 – Aug. 2023\n\nUsed HubSpot CRM to track outreach, strengthen customer relationships, and communicate with clients in a fast-paced sales environment."
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Dallin Wagner’s Resume",
+    "section": "",
+    "text": "Data Science student with a strong foundation in Python, SQL, R, and data analysis. Experienced in applying analytical tools to extract insights. Professional background in sales, coaching, and logistics. Recognized for grit, quick learning, and the ability to collaborate with diverse teams to deliver results."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Dallin Wagner’s Resume",
+    "section": "",
+    "text": "Brigham Young University-Idaho — Rexburg, ID\nExpected Dec. 2026\nMajor: Data Science\n\n\nMachine Learning, Big Data, Data Science Consulting, SQL Database, Statistics with R, Data Wrangling & Visualization, Data Science Programming, Multi Variable Calculus"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Dallin Wagner’s Resume",
+    "section": "",
+    "text": "Python\nSQL\nR\nPySpark / Databricks\nGit / GitHub\n\n\n\n\n\nMachine learning\nETL / data pipelines\nData cleaning\nData visualization\nRegression / ANOVA\nWeb scraping"
+  },
+  {
+    "objectID": "resume.html#related-experience",
+    "href": "resume.html#related-experience",
+    "title": "Dallin Wagner’s Resume",
+    "section": "",
+    "text": "Apr. 2026 – Jul. 2026\n\nLed a BYU-Idaho student consulting team building an automated municipal data pipeline for geospatial integration, ArcGIS-ready outputs, and urban growth decision support.\nCoordinated data inventory, ETL validation workflows, governance recommendations, and client-facing roadmap planning for future municipal analytics.\n\n\n\n\nApr. 2026 – Sep. 2026\n\nCoordinated society communications, project updates, and event messaging while connecting data science students with applied learning opportunities.\nMentored new students through college transition, coursework expectations, academic planning, and campus resources.\n\n\n\n\nAug. 2025 – Dec. 2025\n\nDeployed and managed a relational SQL database on AWS EC2/RDS to support structured storage, querying, and controlled data access.\n\n\n\n\nJan. 2025 – Apr. 2025\n\nCollaborated with a data science team to build a machine learning model predicting player rank from baseball performance statistics.\nDesigned a dynamic web scraper to collect, clean, and format player data for model training and evaluation.\n\n\n\n\nProvo, UT | Feb. 2023 – Aug. 2023\n\nUsed HubSpot CRM to track outreach, strengthen customer relationships, and communicate with clients in a fast-paced sales environment."
+  },
+  {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
     "title": "about me",
@@ -14,8 +49,50 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
@@ -26,6 +103,48 @@
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
   },
   {
     "objectID": "notebooks/Exploration_02.html#part-1-import-pandas-and-load-the-data",
@@ -63,64 +182,15 @@
     "text": "🌟 Above and Beyond 🌟\nThe marketing team is pleased with what you’ve accomplished so far. They have a meeting with top cereal executives in the morning, and they’d like you to do as many of the following additional tasks as you have time for:\n\nWeight Watchers used to have an older points system that used this formula: (calories / 50) + (fat / 12) - (fiber / 5), but only the first 4 grams of fiber were included in the calculation. For comparison’s sake, create an additional column with the calculation for the old points system.\nMarketing really likes the boxplot of the sugar content for each cereal, they’d like similar plots for calories and fat, but using different color schemes for each chart."
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project5.html",
-    "href": "Cleansing_Exploration/project5.html",
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
@@ -140,162 +210,22 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Dallin Wagner’s Resume",
-    "section": "",
-    "text": "Pursuing a Bachelor’s Degree in Data Science at BYU-Idaho."
-  },
-  {
-    "objectID": "resume.html#current",
-    "href": "resume.html#current",
-    "title": "Dallin Wagner’s Resume",
-    "section": "",
-    "text": "Pursuing a Bachelor’s Degree in Data Science at BYU-Idaho."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Dallin Wagner’s Resume",
-    "section": "Education",
-    "text": "Education\nExpected Apr 2027 Brigham Young University - Idaho Major: Data Science\n\nSpecialized in\nData analytics, statistical modeling, web scraping, and working with people to solve real-world problems\n\n\nResearch interests\nSports analytics, machine learning, business logistics, customer behavior"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Dallin Wagner’s Resume",
-    "section": "Skills",
-    "text": "Skills\n• Python\n• R\n• SQL\n• Written and verbal communication\n• Critical thinking\n• Relationship building\n• Active listening\n• Clinic planning and leadership\n• Problem-solving\n• Conversational Spanish"
-  },
-  {
-    "objectID": "resume.html#projects",
-    "href": "resume.html#projects",
-    "title": "Dallin Wagner’s Resume",
-    "section": "Projects",
-    "text": "Projects\nPython\n• Pioneer Baseball League Analytics- 1/2025-4/2025\n\nAs a team we built a machine learning model using college player’s data to predict their rank in the League\nI created, tested, & used a dynamic web scraper to format & collect the relevant data for a Machine learning Model\n\nSQL\n• FedEx Database- 1/2025-4/2025\n\nDiscovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability\nI created a functional database using SQL to replicate FedEx’s information\nFocused on improving data accessibility for FedEx contractors to help them effectively use their data\n\nR\n• 2-Disc Disc Golf Data set- 6/2024-11/2024\n\nI gathered data about playing disc golf with multiple different discs vs playing with only two disks\nanalyzed it to see which style of playing statistically showed the lowest amount of throws per round.\n\n• Golf Accuracy Data Set- 1/2025-4/2025\n\nI gathered data about accuracy to the pin using three separate golf clubs.\nAnalyzed it using a two way Anova test to see how each club preformed at each distance."
-  },
-  {
-    "objectID": "resume.html#professional-work",
-    "href": "resume.html#professional-work",
-    "title": "Dallin Wagner’s Resume",
-    "section": "Professional Work",
-    "text": "Professional Work\nFedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – 9/2025\nHalda, SDR -Provo Ut: 02/2023 - 08/2023\nAssistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023\nBig Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023\nService Volunteer- Nashville, TN: 5/2018 - 5/2020\nField Worker- Pocatello, ID: 7/2016 - 10/2017"
-  },
-  {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
@@ -315,36 +245,36 @@
     "text": "MarkDown Basics"
   },
   {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
@@ -357,17 +287,80 @@
     "text": "Paste in a template\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "Cleansing_Projects/project2.html",
     "href": "Cleansing_Projects/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
   }
 ]

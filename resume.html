@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,14 +43,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-51a9885dfcbcc389be584bcb5e1a5234.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-9e8295696721055c13f79443dac2a15a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-51a9885dfcbcc389be584bcb5e1a5234.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7cc31722a23d0f51dab93fa25cfc72b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-2f6032f58de424777cde3707758c52f6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-7cc31722a23d0f51dab93fa25cfc72b5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -280,15 +283,27 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#current" id="toc-current" class="nav-link active" data-scroll-target="#current">Current</a></li>
+  <li><a href="#dallin-wagner" id="toc-dallin-wagner" class="nav-link active" data-scroll-target="#dallin-wagner">Dallin Wagner</a>
+  <ul class="collapse">
+  <li><a href="#professional-summary" id="toc-professional-summary" class="nav-link" data-scroll-target="#professional-summary">Professional Summary</a></li>
   <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a>
   <ul class="collapse">
-  <li><a href="#specialized-in" id="toc-specialized-in" class="nav-link" data-scroll-target="#specialized-in">Specialized in</a></li>
-  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research interests</a></li>
+  <li><a href="#relevant-coursework" id="toc-relevant-coursework" class="nav-link" data-scroll-target="#relevant-coursework">Relevant Coursework</a></li>
   </ul></li>
-  <li><a href="#skills" id="toc-skills" class="nav-link" data-scroll-target="#skills">Skills</a></li>
-  <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a></li>
-  <li><a href="#professional-work" id="toc-professional-work" class="nav-link" data-scroll-target="#professional-work">Professional Work</a></li>
+  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link" data-scroll-target="#technical-skills">Technical Skills</a>
+  <ul class="collapse">
+  <li><a href="#tools-languages" id="toc-tools-languages" class="nav-link" data-scroll-target="#tools-languages">Tools &amp; Languages</a></li>
+  <li><a href="#analytics" id="toc-analytics" class="nav-link" data-scroll-target="#analytics">Analytics</a></li>
+  </ul></li>
+  <li><a href="#related-experience" id="toc-related-experience" class="nav-link" data-scroll-target="#related-experience">Related Experience</a>
+  <ul class="collapse">
+  <li><a href="#city-of-ammon-data-pipeline-project-project-lead" id="toc-city-of-ammon-data-pipeline-project-project-lead" class="nav-link" data-scroll-target="#city-of-ammon-data-pipeline-project-project-lead">City of Ammon Data Pipeline Project — Project Lead</a></li>
+  <li><a href="#byu-idaho-data-science-society-vp-communications-mentor" id="toc-byu-idaho-data-science-society-vp-communications-mentor" class="nav-link" data-scroll-target="#byu-idaho-data-science-society-vp-communications-mentor">BYU-Idaho Data Science Society — VP Communications &amp; Mentor</a></li>
+  <li><a href="#aws-database-integration-project-sql-aws-html" id="toc-aws-database-integration-project-sql-aws-html" class="nav-link" data-scroll-target="#aws-database-integration-project-sql-aws-html">AWS Database Integration Project — SQL / AWS / HTML</a></li>
+  <li><a href="#pioneer-baseball-league-analytics-python-machine-learning" id="toc-pioneer-baseball-league-analytics-python-machine-learning" class="nav-link" data-scroll-target="#pioneer-baseball-league-analytics-python-machine-learning">Pioneer Baseball League Analytics — Python / Machine Learning</a></li>
+  <li><a href="#halda-sales-development-representative" id="toc-halda-sales-development-representative" class="nav-link" data-scroll-target="#halda-sales-development-representative">Halda — Sales Development Representative</a></li>
+  </ul></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -315,75 +330,95 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="current" class="level2">
-<h2 class="anchored" data-anchor-id="current">Current</h2>
-<p>Pursuing a Bachelor’s Degree in Data Science at BYU-Idaho.</p>
+<section id="dallin-wagner" class="level1">
+<h1>Dallin Wagner</h1>
+<p><a href="https://www.linkedin.com/in/dallin-wagner">LinkedIn</a><br>
+(208) 206-5580<br>
+dallinwagner@outlook.com</p>
+<section id="professional-summary" class="level2">
+<h2 class="anchored" data-anchor-id="professional-summary">Professional Summary</h2>
+<p>Data Science student with a strong foundation in Python, SQL, R, and data analysis. Experienced in applying analytical tools to extract insights. Professional background in sales, coaching, and logistics. Recognized for grit, quick learning, and the ability to collaborate with diverse teams to deliver results.</p>
 </section>
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">Education</h2>
-<p>Expected Apr 2027 Brigham Young University - Idaho Major: Data Science</p>
-<section id="specialized-in" class="level3">
-<h3 class="anchored" data-anchor-id="specialized-in">Specialized in</h3>
-<p>Data analytics, statistical modeling, web scraping, and working with people to solve real-world problems</p>
-</section>
-<section id="research-interests" class="level3">
-<h3 class="anchored" data-anchor-id="research-interests">Research interests</h3>
-<p>Sports analytics, machine learning, business logistics, customer behavior</p>
+<p><strong>Brigham Young University-Idaho — Rexburg, ID</strong><br>
+Expected Dec.&nbsp;2026</p>
+<p><strong>Major:</strong> Data Science</p>
+<section id="relevant-coursework" class="level3">
+<h3 class="anchored" data-anchor-id="relevant-coursework">Relevant Coursework</h3>
+<p>Machine Learning, Big Data, Data Science Consulting, SQL Database, Statistics with R, Data Wrangling &amp; Visualization, Data Science Programming, Multi Variable Calculus</p>
 </section>
 </section>
-<section id="skills" class="level2">
-<h2 class="anchored" data-anchor-id="skills">Skills</h2>
-<p>• Python</p>
-<p>• R</p>
-<p>• SQL</p>
-<p>• Written and verbal communication</p>
-<p>• Critical thinking</p>
-<p>• Relationship building</p>
-<p>• Active listening</p>
-<p>• Clinic planning and leadership</p>
-<p>• Problem-solving</p>
-<p>• Conversational Spanish</p>
-</section>
-<section id="projects" class="level2">
-<h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<p>Python</p>
-<p>• Pioneer Baseball League Analytics- 1/2025-4/2025</p>
+<section id="technical-skills" class="level2">
+<h2 class="anchored" data-anchor-id="technical-skills">Technical Skills</h2>
+<section id="tools-languages" class="level3">
+<h3 class="anchored" data-anchor-id="tools-languages">Tools &amp; Languages</h3>
 <ul>
-<li>As a team we built a machine learning model using college player’s data to predict their rank in the League</li>
-<li>I created, tested, &amp; used a dynamic web scraper to format &amp; collect the relevant data for a Machine learning Model</li>
-</ul>
-<p>SQL</p>
-<p>• FedEx Database- 1/2025-4/2025</p>
-<ul>
-<li>Discovered that data analysis is underutilized at the micro level in FedEx due to inconvenient access and usability</li>
-<li>I created a functional database using SQL to replicate FedEx’s information</li>
-<li>Focused on improving data accessibility for FedEx contractors to help them effectively use their data</li>
-</ul>
-<p>R</p>
-<p>• 2-Disc Disc Golf Data set- 6/2024-11/2024</p>
-<ul>
-<li>I gathered data about playing disc golf with multiple different discs vs playing with only two disks</li>
-<li>analyzed it to see which style of playing statistically showed the lowest amount of throws per round.</li>
-</ul>
-<p>• Golf Accuracy Data Set- 1/2025-4/2025</p>
-<ul>
-<li>I gathered data about accuracy to the pin using three separate golf clubs.</li>
-<li>Analyzed it using a two way Anova test to see how each club preformed at each distance.</li>
+<li>Python</li>
+<li>SQL</li>
+<li>R</li>
+<li>PySpark / Databricks</li>
+<li>Git / GitHub</li>
 </ul>
 </section>
-<section id="professional-work" class="level2">
-<h2 class="anchored" data-anchor-id="professional-work">Professional Work</h2>
-<p>FedEx Ground- Rigby, ID: Delivery Driver: 5/2024 – 9/2025</p>
-<p>Halda, SDR -Provo Ut: 02/2023 - 08/2023</p>
-<p>Assistant Tennis Coach-Rexburg, ID:04/2020 – 01/2023</p>
-<p>Big Five Sporting Goods Sales Associate- Rexburg, ID: 04/2020 – 01/2023</p>
-<p>Service Volunteer- Nashville, TN: 5/2018 - 5/2020</p>
-<p>Field Worker- Pocatello, ID: 7/2016 - 10/2017</p>
+<section id="analytics" class="level3">
+<h3 class="anchored" data-anchor-id="analytics">Analytics</h3>
+<ul>
+<li>Machine learning</li>
+<li>ETL / data pipelines</li>
+<li>Data cleaning</li>
+<li>Data visualization</li>
+<li>Regression / ANOVA</li>
+<li>Web scraping</li>
+</ul>
+</section>
+</section>
+<section id="related-experience" class="level2">
+<h2 class="anchored" data-anchor-id="related-experience">Related Experience</h2>
+<section id="city-of-ammon-data-pipeline-project-project-lead" class="level3">
+<h3 class="anchored" data-anchor-id="city-of-ammon-data-pipeline-project-project-lead">City of Ammon Data Pipeline Project — Project Lead</h3>
+<p><strong>Apr.&nbsp;2026 – Jul.&nbsp;2026</strong></p>
+<ul>
+<li>Led a BYU-Idaho student consulting team building an automated municipal data pipeline for geospatial integration, ArcGIS-ready outputs, and urban growth decision support.</li>
+<li>Coordinated data inventory, ETL validation workflows, governance recommendations, and client-facing roadmap planning for future municipal analytics.</li>
+</ul>
+</section>
+<section id="byu-idaho-data-science-society-vp-communications-mentor" class="level3">
+<h3 class="anchored" data-anchor-id="byu-idaho-data-science-society-vp-communications-mentor">BYU-Idaho Data Science Society — VP Communications &amp; Mentor</h3>
+<p><strong>Apr.&nbsp;2026 – Sep.&nbsp;2026</strong></p>
+<ul>
+<li>Coordinated society communications, project updates, and event messaging while connecting data science students with applied learning opportunities.</li>
+<li>Mentored new students through college transition, coursework expectations, academic planning, and campus resources.</li>
+</ul>
+</section>
+<section id="aws-database-integration-project-sql-aws-html" class="level3">
+<h3 class="anchored" data-anchor-id="aws-database-integration-project-sql-aws-html">AWS Database Integration Project — SQL / AWS / HTML</h3>
+<p><strong>Aug.&nbsp;2025 – Dec.&nbsp;2025</strong></p>
+<ul>
+<li>Deployed and managed a relational SQL database on AWS EC2/RDS to support structured storage, querying, and controlled data access.</li>
+</ul>
+</section>
+<section id="pioneer-baseball-league-analytics-python-machine-learning" class="level3">
+<h3 class="anchored" data-anchor-id="pioneer-baseball-league-analytics-python-machine-learning">Pioneer Baseball League Analytics — Python / Machine Learning</h3>
+<p><strong>Jan.&nbsp;2025 – Apr.&nbsp;2025</strong></p>
+<ul>
+<li>Collaborated with a data science team to build a machine learning model predicting player rank from baseball performance statistics.</li>
+<li>Designed a dynamic web scraper to collect, clean, and format player data for model training and evaluation.</li>
+</ul>
+</section>
+<section id="halda-sales-development-representative" class="level3">
+<h3 class="anchored" data-anchor-id="halda-sales-development-representative">Halda — Sales Development Representative</h3>
+<p><strong>Provo, UT | Feb.&nbsp;2023 – Aug.&nbsp;2023</strong></p>
+<ul>
+<li>Used HubSpot CRM to track outreach, strengthen customer relationships, and communicate with clients in a fast-paced sales environment.</li>
+</ul>
 <!-- ### Footer
 
-Last updated: April 2025 -->
+Last updated: October 2026 -->
 
 
+</section>
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
