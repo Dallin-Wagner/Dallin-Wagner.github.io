@@ -1,1 +1,1 @@
-Sitemap: https://Dallin-Wagner.github.io/sitemap.xml
+Sitemap: https://dallin-wagner.github.io/sitemap.xml
