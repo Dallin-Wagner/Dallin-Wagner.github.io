@@ -4,7 +4,9 @@ on:
     branches: main
 
 name: Quarto Publish
-
+concurrency:
+  group: quarto-publish
+  cancel-in-progress: false
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
