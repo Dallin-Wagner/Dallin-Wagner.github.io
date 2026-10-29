@@ -1,10 +1,41 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Dallin Wagner"
+subtitle: "Data Science · Python · Machine Learning"
+toc: false
 ---
 
-# Title 1 Header
-## Title 2 Header
+I am a data science student at Brigham Young University–Idaho,
+graduating in December 2026. I enjoy turning messy data into
+useful insights and building tools that make analysis easier.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+My interests include machine learning, data pipelines, and
+applications in health and wellness.
+
+## Featured project
+
+### Stress or Exercise?
+
+Can wearable-device data help distinguish mental stress from
+physical activity?
+
+For my senior project, I am exploring physiological recordings,
+developing a classification model, and building a Python
+package for preparing wearable data.
+
+**Current stage:** Dataset downloaded; beginning exploration.
+
+[Explore the project and read my updates](senior-project.qmd){.btn .btn-primary}
+
+## Background
+
+My experience includes leading a student data-pipeline project
+for the City of Ammon and serving as VP of Communications and
+a mentor in the BYU–Idaho Data Science Society.
+
+[View my résumé](resume.qmd){.btn .btn-outline-primary}
+
+## Connect
+
+[GitHub](https://github.com/Dallin-Wagner) ·
+[LinkedIn](https://www.linkedin.com/in/dallin-wagner/) ·
+[Email](mailto:dallinwagner@outlook.com)
